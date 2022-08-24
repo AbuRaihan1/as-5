@@ -1,0 +1,17 @@
+1. header a jei text ache, oita change korte hobe. nijer moto onno kichu dite hobe. nicher underline er moto system ta optional.
+2. header text e hobe website er title
+3. player name gulo unic thakbe, and minimum 6 jon player er card dite hobe. everyone names will be different
+
+web interaction :
+1. ekta list thakbe, 
+2. kono player er okhane select korle oi player er name oi list a add hobe.
+3. tarpor niche per player er khoroch onujai, calulate hobe.
+4. managar er jonno khoroch thkabe others khoroch thakbe. 
+5. player khoroch & sob khoroch eksathe ekta total a dekhabe.
+
+bonus mark :
+1. select button a click korle, button ta disable hoye jaabe.
+2. 5 jon er beshi player add kore jabena. jodi 5 jon player add hoye jay, tahole abar player select kore chaile, error dekhabe, 5 player already added, you can't add more player.
+3. github a minimum 6 ta commit thakte hobe.
+4. ekta minimum commmon function thakbe.
+5. function and variable er name meaningfull thakte hobe.
